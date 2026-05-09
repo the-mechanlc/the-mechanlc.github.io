@@ -39,7 +39,7 @@ pages_search = true
 site_search = true
 
 [extra.doordarshan.assets]
-social_image = ""
+social_image = "/images/social-card.png"
 
 [extra.doordarshan.homepage]
 show_recent = true
